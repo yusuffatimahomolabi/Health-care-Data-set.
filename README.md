@@ -1,5 +1,18 @@
 # Health-care-Data-set.
+# Condition generate highest Revenue
+## Obesity is the medical condition that generate the highest revenue of N236,00,694.
 
+#Age Group
+## Age group 38 years visit te hospital most with the count of Admission Type 890 Value.
+ 
+# Insurance Provider
+## Cigna is the insurance provider that contributes N284,334,099.18 finacially
+
+# Admission Type
+## Elective is the most common Admission Type with the counts of 18,473, Irrespective of other Admission type that counts 18102 for Emergency and 18391 for Urgent Admission.
+
+# Medical Condtion that keeps patients in the Hospital
+## Arthritis is the condition that keep patients in the hospital for long lenght stay of 9218
 
 
 ![](PIVOTCHART2.png)
